@@ -1,5 +1,3 @@
-# c1
-common cold
 
 globals [
   driver-seat     ; driver's seat
